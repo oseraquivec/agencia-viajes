@@ -152,3 +152,10 @@ footer {
     border-radius: 50%;
     vertical-align: middle;
 }
+.tarjeta img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 12px;
+}
